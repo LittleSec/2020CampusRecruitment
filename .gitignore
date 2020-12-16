@@ -1,0 +1,15 @@
+# resume
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.jpg
+*.zip
+
+# compile and build
+.vscode/
+a.out
+*.o
+
+.DS_Store
